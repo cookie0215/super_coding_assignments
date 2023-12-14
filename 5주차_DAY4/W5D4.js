@@ -4,5 +4,3 @@ setTimeout(function () {
     console.log(i + ' ' + variable);
   }
 }, 100)
-
-
